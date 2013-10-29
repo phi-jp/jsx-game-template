@@ -1,4 +1,22 @@
-jsx-game-template
-=================
+# jsx-game-template
 
-jsx template with tmlib.jsx
+
+## setup
+
+```
+$npm install
+```
+
+## build
+
+```
+$grunt
+```
+
+## watch build
+
+```
+$grunt watch
+```
+
+
